@@ -32,7 +32,7 @@ During the fist week of February 2023, the previously mentioned landscape change
 
 This could be a small indicator that the campaign is working.
 
-![changes.png](changes.png)
+![changes.png](Images/changes.png)
 
 - **Reference**: week before the campaign
 - **Campaign**: the full campaign
