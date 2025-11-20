@@ -27,4 +27,8 @@ This represents the supermarket landscape in the last week of January 2023, just
 
 ### Change in shares during campaign
 ![marktpositie.png](Images/marktpositie.png)
+During the fist week of February 2023, the previously mentioned landscape changes and Aldi recieves more visits relative to the other supermarkets.
+
+This could be a small indicator that the campaign is working.
+
 
