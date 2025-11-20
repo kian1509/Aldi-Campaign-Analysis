@@ -38,6 +38,9 @@ This could be a small indicator that the campaign is working.
 - **Campaign**: the full campaign
 - **Post**: The month after the campaign
 
-It can be seen that there is an increase in the shares of visit for Aldi during the campaign, but this increase continues after the campaign. Is  this the result of word to mouth or is there something else going on? (This will be explained later)
+It can be seen that there is an increase in the shares of visit for Aldi during the campaign, but this increase continues after the campaign. Is this the result of word to mouth or is there something else going on? (**This will be explained later**)
+
+### Amount of visits
+![visits](Images/amount_of_visits.png)
 
 
