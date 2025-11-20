@@ -20,6 +20,8 @@ Following insights were made by using a combination of SQL, Python and Power BI.
 
 ### Shares of visit
 ![shares_of_visit.png](Images/shares_of_visit.png)
+This donut graph indicates that of all visits in supermarkets in Belgium, 13,9% are visits to Aldi stores.\\
+This is the supermarket landscape in the last week of january 2023, just before the Aldi Disney campaign that starts at 1 February.
 ### Change in shares during campaign
 ![marktpositie.png](Images/marktpositie.png)
 
