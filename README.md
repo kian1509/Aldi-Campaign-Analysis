@@ -10,4 +10,8 @@ If the Powerpoint does not load, please click: 'view raw' or 'download raw'.
 The dataset is partially confidential and cannot be shared in its entirety. A small snippet is included below to illustrate its structure.
 
 ![data_snippet](Images/data_snippet.png)
+Where: start_date = date of measurement
+visits = total amount of visits for all supermarkets of a specific brand in a specific region (on a specific date)
+brand = brand of supermarket
+zone = cumulative geozones where all the supermarkets within that zone are included
 
