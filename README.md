@@ -16,8 +16,10 @@ The dataset is partially confidential and cannot be shared in its entirety. A sm
 - **zone**: The cumulative geozone that includes all supermarkets located within that zone.  
 
 ## Insights
-Following insights were made by using a combination of SQL, Python and Power BI. The insights of the national level (i.e. Belgium are presented here). If you would like to see the insights of other administrative regions in Belgium, take a look at the [Presentation](Presentatie_Aldi_Kian.odp).
+Following insights were made by using a combination of SQL, Python and Power BI. The insights of the national level (i.e. Belgium) are presented here. If you would like to see the insights of other administrative regions in Belgium, take a look at the [Presentation](Presentatie_Aldi_Kian.odp).
 
-### Shares Of Visit
+### Shares of visit
+![shares_of_visit.png](Images/shares_of_visit.png)
+### Change in shares during campaign
 ![marktpositie.png](Images/marktpositie.png)
 
