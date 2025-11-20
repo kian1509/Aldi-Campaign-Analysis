@@ -25,11 +25,19 @@ This donut graph indicates that of all visits in supermarkets in Belgium, 13.9% 
 
 This represents the supermarket landscape in the last week of January 2023, just before the Aldi Disney campaign that starts on 1 February.  
 
-### Change in shares during campaign
+### Change in shares
 ![marktpositie.png](Images/marktpositie.png)
 
 During the fist week of February 2023, the previously mentioned landscape changes and Aldi recieves more visits relative to the other supermarkets.
 
 This could be a small indicator that the campaign is working.
+
+![changes.png](changes.png)
+
+- **Reference**: week before the campaign
+- **Campaign**: the full campaign
+- **Post**: The month after the campaign
+
+It can be seen that there is an increase in the shares of visit for Aldi during the campaign, but this increase continues after the campaign. Is  this the result of word to mouth or is there something else going on? (This will be explained later)
 
 
