@@ -9,5 +9,5 @@ If the Powerpoint does not load, please click: 'view raw' or 'download raw'.
 
 The dataset is partially confidential and cannot be shared in its entirety. A small snippet is included below to illustrate its structure.
 
-![data_snippet](data_snippet.png)
+![data_snippet](Images/data_snippet.png)
 
